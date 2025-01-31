@@ -1,5 +1,5 @@
 # Company-Employee-Database
-Link to Walkthrough Video:
+Link to Walkthrough Video: https://app.screencastify.com/v3/watch/mPIK4XDVYjK94HMHVkpz
 
 ## Description
 
